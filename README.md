@@ -21,7 +21,7 @@
 
 # Tecnologias utilizadas
 
-## Front end / Back end
+## Back end
 - C#
 
 # Sobre o Curso
